@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Logs
+*.log
+
+# Models / audio / temporary files
+models/
+*.wav
+*.mp3
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Flask cache
+instance/
+*.db
+
+echo "__pycache__/\nvenv/\n.DS_Store"

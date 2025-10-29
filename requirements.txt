@@ -1,0 +1,7 @@
+flask
+flask-socketio
+pyttsx3
+SpeechRecognition
+pyaudio
+openai-whisper
+ollama
